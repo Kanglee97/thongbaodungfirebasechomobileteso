@@ -1,0 +1,511 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:@react-native-community_async-storage] /Users/macbookpro/Desktop/appdemo/AwesomeProject11/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-firebase] /Users/macbookpro/Desktop/appdemo/AwesomeProject11/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/abcda88a2cc95df6ae4d674546d681e6/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b34fb259cd333aacdd28a5fe1856df37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/3dea8f2d2c5b14aca78281ab6a6efda9/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-core:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.2.aar/46a36e509793e9031a61989c6eaf5b5a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/82eb325007c5c2802a04e277783b60ed/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0027de2cf69c7251e0954f03e2462147/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/64c38ab5bb27f709fa27ea5bf30a260a/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/8b374c28c99669b2ea63ae5b0e996168/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-15.0.0.aar/b3c0e329e8c1e7e963feca6290ca72da/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/442826bc38c50ea1433b9e0cac14a02b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/ca9143dcf351b088855c4538a9061ed0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/4fc47cdd057321420a369ce955e8125e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/8f5d5c1950151cf8fe55c7dd7ced7bdb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/9949c9e979dafde95e39a2831d681d76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/df2e9012cacc3c47e35c820aa8f938dc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c52bb0666f0ed7c887d67b108d237aee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c88e01ced6d90502286a20a966e1bc58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5d6973ef0d89f511dc38ceb456769341/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/84422205326efb844f5b04def61a113b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/25a15cf6feb24886def3886fea92f01f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/89c65b5f6ac56530ceea5e7e2457d1e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c317fbd3c3661c20cd2a494140ecbe68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/33ed60b844f711c36a47c1b6ce72e89b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5ceec25e8f03f33341d6aed283afe2f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/efd41e4fc2a8674769bde957add941d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0fddf3ea537e3a9abc181f143d30331c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c0febd322729cdc126c6327f302e5cf4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a44331cc9c7cd812978637e2a1a9dd29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/02a848469b78bac68872954cc1d5a095/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6b1212af817baad891bb572650245024/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ef9e004cac869e0bde1bee909cdfc35c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3159f44afc4c6d972361aa38bbf6ff79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/dd2da7a9ed51681bc9039fd508a8e53a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ade11be4d7d9061bcaf450db00a5601e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6522cbeae04b5410f81dbdaddaa4181e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/45d5e49a398a4cd825bbd73c20432505/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ea26babf0f3680f7391acb778e5ffd93/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8d7dba9a2a16ca0c5998178809ce3c4b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/29e497d425dd5e119e3cc540ccf8a7f1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7ca32dedafd673a1aaba709c553b9bd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8d04b8565e8638bca036530fa5b32235/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f60fb1907e6fc00cdf4d2666a0129425/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/fc7188afd6e996c4812f0fa39fe8f5be/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/c6e2fda3a60070c4c25113c39909e8d5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/438817bfe30f0b0da122024e0bd978cc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/ecb89a8f5d90d7eb7941e46677f5ec26/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6bd21a11639543cd97c1c0f06f6d3523/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/5231c895e25ffbfe4d3ecf063c60ee2b/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:2:3-33
+		INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:2:3-33
+		INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-firebase] /Users/macbookpro/Desktop/appdemo/AwesomeProject11/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase] /Users/macbookpro/Desktop/appdemo/AwesomeProject11/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:6:5-31:19
+MERGED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:6:5-31:19
+MERGED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:6:5-31:19
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/abcda88a2cc95df6ae4d674546d681e6/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/abcda88a2cc95df6ae4d674546d681e6/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/3dea8f2d2c5b14aca78281ab6a6efda9/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/3dea8f2d2c5b14aca78281ab6a6efda9/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-core:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.2.aar/46a36e509793e9031a61989c6eaf5b5a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.2.aar/46a36e509793e9031a61989c6eaf5b5a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/82eb325007c5c2802a04e277783b60ed/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/82eb325007c5c2802a04e277783b60ed/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0027de2cf69c7251e0954f03e2462147/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0027de2cf69c7251e0954f03e2462147/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/64c38ab5bb27f709fa27ea5bf30a260a/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/64c38ab5bb27f709fa27ea5bf30a260a/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/8b374c28c99669b2ea63ae5b0e996168/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/8b374c28c99669b2ea63ae5b0e996168/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-15.0.0.aar/b3c0e329e8c1e7e963feca6290ca72da/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-15.0.0.aar/b3c0e329e8c1e7e963feca6290ca72da/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/442826bc38c50ea1433b9e0cac14a02b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/442826bc38c50ea1433b9e0cac14a02b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/ca9143dcf351b088855c4538a9061ed0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/ca9143dcf351b088855c4538a9061ed0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/4fc47cdd057321420a369ce955e8125e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/4fc47cdd057321420a369ce955e8125e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/02a848469b78bac68872954cc1d5a095/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/02a848469b78bac68872954cc1d5a095/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6b1212af817baad891bb572650245024/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6b1212af817baad891bb572650245024/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/ecb89a8f5d90d7eb7941e46677f5ec26/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/ecb89a8f5d90d7eb7941e46677f5ec26/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/5231c895e25ffbfe4d3ecf063c60ee2b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/5231c895e25ffbfe4d3ecf063c60ee2b/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/02a848469b78bac68872954cc1d5a095/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.awesomeproject11.MainActivity
+ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:23:17-81
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:24:9-28:19
+	android:name
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:24:18-91
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:25:13-27:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:26:17-78
+	android:name
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:26:25-75
+service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
+ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:29:9-104
+	android:name
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml:29:18-101
+uses-sdk
+INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Users/macbookpro/Desktop/appdemo/AwesomeProject11/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/macbookpro/Desktop/appdemo/AwesomeProject11/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase] /Users/macbookpro/Desktop/appdemo/AwesomeProject11/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-firebase] /Users/macbookpro/Desktop/appdemo/AwesomeProject11/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/abcda88a2cc95df6ae4d674546d681e6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.8] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/react-native-0.59.8.aar/abcda88a2cc95df6ae4d674546d681e6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b34fb259cd333aacdd28a5fe1856df37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/b34fb259cd333aacdd28a5fe1856df37/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/3dea8f2d2c5b14aca78281ab6a6efda9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/3dea8f2d2c5b14aca78281ab6a6efda9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.2.aar/46a36e509793e9031a61989c6eaf5b5a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-core-15.0.2.aar/46a36e509793e9031a61989c6eaf5b5a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/82eb325007c5c2802a04e277783b60ed/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-15.0.0.aar/82eb325007c5c2802a04e277783b60ed/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0027de2cf69c7251e0954f03e2462147/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0027de2cf69c7251e0954f03e2462147/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/64c38ab5bb27f709fa27ea5bf30a260a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/64c38ab5bb27f709fa27ea5bf30a260a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/8b374c28c99669b2ea63ae5b0e996168/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/8b374c28c99669b2ea63ae5b0e996168/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-15.0.0.aar/b3c0e329e8c1e7e963feca6290ca72da/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-15.0.0.aar/b3c0e329e8c1e7e963feca6290ca72da/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/442826bc38c50ea1433b9e0cac14a02b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/442826bc38c50ea1433b9e0cac14a02b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/ca9143dcf351b088855c4538a9061ed0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/ca9143dcf351b088855c4538a9061ed0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/4fc47cdd057321420a369ce955e8125e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/4fc47cdd057321420a369ce955e8125e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/8f5d5c1950151cf8fe55c7dd7ced7bdb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/8f5d5c1950151cf8fe55c7dd7ced7bdb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/9949c9e979dafde95e39a2831d681d76/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/9949c9e979dafde95e39a2831d681d76/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/df2e9012cacc3c47e35c820aa8f938dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/df2e9012cacc3c47e35c820aa8f938dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c52bb0666f0ed7c887d67b108d237aee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/c52bb0666f0ed7c887d67b108d237aee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c88e01ced6d90502286a20a966e1bc58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/c88e01ced6d90502286a20a966e1bc58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5d6973ef0d89f511dc38ceb456769341/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/5d6973ef0d89f511dc38ceb456769341/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/84422205326efb844f5b04def61a113b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/84422205326efb844f5b04def61a113b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/25a15cf6feb24886def3886fea92f01f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/25a15cf6feb24886def3886fea92f01f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/89c65b5f6ac56530ceea5e7e2457d1e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/89c65b5f6ac56530ceea5e7e2457d1e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c317fbd3c3661c20cd2a494140ecbe68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c317fbd3c3661c20cd2a494140ecbe68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/33ed60b844f711c36a47c1b6ce72e89b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/33ed60b844f711c36a47c1b6ce72e89b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5ceec25e8f03f33341d6aed283afe2f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/5ceec25e8f03f33341d6aed283afe2f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/efd41e4fc2a8674769bde957add941d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/efd41e4fc2a8674769bde957add941d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0fddf3ea537e3a9abc181f143d30331c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/0fddf3ea537e3a9abc181f143d30331c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c0febd322729cdc126c6327f302e5cf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c0febd322729cdc126c6327f302e5cf4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a44331cc9c7cd812978637e2a1a9dd29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/a44331cc9c7cd812978637e2a1a9dd29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/02a848469b78bac68872954cc1d5a095/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/02a848469b78bac68872954cc1d5a095/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6b1212af817baad891bb572650245024/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/6b1212af817baad891bb572650245024/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ef9e004cac869e0bde1bee909cdfc35c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/ef9e004cac869e0bde1bee909cdfc35c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3159f44afc4c6d972361aa38bbf6ff79/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/3159f44afc4c6d972361aa38bbf6ff79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/dd2da7a9ed51681bc9039fd508a8e53a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/dd2da7a9ed51681bc9039fd508a8e53a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ade11be4d7d9061bcaf450db00a5601e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/ade11be4d7d9061bcaf450db00a5601e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6522cbeae04b5410f81dbdaddaa4181e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/6522cbeae04b5410f81dbdaddaa4181e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/45d5e49a398a4cd825bbd73c20432505/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/45d5e49a398a4cd825bbd73c20432505/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ea26babf0f3680f7391acb778e5ffd93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/ea26babf0f3680f7391acb778e5ffd93/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8d7dba9a2a16ca0c5998178809ce3c4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8d7dba9a2a16ca0c5998178809ce3c4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/29e497d425dd5e119e3cc540ccf8a7f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/29e497d425dd5e119e3cc540ccf8a7f1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7ca32dedafd673a1aaba709c553b9bd6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/7ca32dedafd673a1aaba709c553b9bd6/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8d04b8565e8638bca036530fa5b32235/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/8d04b8565e8638bca036530fa5b32235/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f60fb1907e6fc00cdf4d2666a0129425/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f60fb1907e6fc00cdf4d2666a0129425/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/fc7188afd6e996c4812f0fa39fe8f5be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/fc7188afd6e996c4812f0fa39fe8f5be/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/c6e2fda3a60070c4c25113c39909e8d5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/c6e2fda3a60070c4c25113c39909e8d5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/438817bfe30f0b0da122024e0bd978cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/438817bfe30f0b0da122024e0bd978cc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/ecb89a8f5d90d7eb7941e46677f5ec26/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/soloader-0.6.0.aar/ecb89a8f5d90d7eb7941e46677f5ec26/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6bd21a11639543cd97c1c0f06f6d3523/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/6bd21a11639543cd97c1c0f06f6d3523/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/5231c895e25ffbfe4d3ecf063c60ee2b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-15.0.2.aar/5231c895e25ffbfe4d3ecf063c60ee2b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/macbookpro/Desktop/appdemo/AwesomeProject11/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase] /Users/macbookpro/Desktop/appdemo/AwesomeProject11/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:react-native-firebase] /Users/macbookpro/Desktop/appdemo/AwesomeProject11/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase] /Users/macbookpro/Desktop/appdemo/AwesomeProject11/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:react-native-firebase] /Users/macbookpro/Desktop/appdemo/AwesomeProject11/node_modules/react-native-firebase/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:22-76
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/3dea8f2d2c5b14aca78281ab6a6efda9/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/3dea8f2d2c5b14aca78281ab6a6efda9/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-messaging-15.0.2.aar/3dea8f2d2c5b14aca78281ab6a6efda9/AndroidManifest.xml:29:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:27:18-89
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-impl-15.0.0.aar/3c5ae532277e187e340fb828a1415b40/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-15.0.2.aar/79162130a7a06548330f254dcda5fd54/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-analytics-15.0.2.aar/34d2f63c723ea65a3ed9c31b6e433e21/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:29:9-63
+permission#com.awesomeproject11.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:32:22-76
+uses-permission#com.awesomeproject11.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.awesomeproject11
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:48:27-58
+category#com.awesomeproject11
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-iid-15.1.0.aar/7847261a4ab9ea5f4e13dcff9ba01f0c/AndroidManifest.xml:60:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0027de2cf69c7251e0954f03e2462147/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0027de2cf69c7251e0954f03e2462147/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0027de2cf69c7251e0954f03e2462147/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/0027de2cf69c7251e0954f03e2462147/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/64c38ab5bb27f709fa27ea5bf30a260a/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/64c38ab5bb27f709fa27ea5bf30a260a/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/64c38ab5bb27f709fa27ea5bf30a260a/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/64c38ab5bb27f709fa27ea5bf30a260a/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/firebase-common-15.0.1.aar/64c38ab5bb27f709fa27ea5bf30a260a/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/4fc47cdd057321420a369ce955e8125e/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/4fc47cdd057321420a369ce955e8125e/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/macbookpro/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/4fc47cdd057321420a369ce955e8125e/AndroidManifest.xml:24:13-58
